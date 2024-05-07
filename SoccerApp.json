@@ -1,5 +1,5 @@
 {
-  "SoccerApp":
+  "PlayerInfo":
   [
     {"PlayerName":"Cristiano Ronaldo","PlayerCountry":"Portugal","PlayerTeam":"Al Nassr FC","PlayerImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg","PlayerAge":"39 years","PlayerPosition":"Striker","PlayerShirtNumber":"7","PlayerSite":"https://www.espn.com/soccer/player/_/id/22774/cristiano-ronaldo", "PlayerGoals": "26", "PlayerAssists" : "9"},
     {"PlayerName":"Lionel Messi","PlayerCountry":"Argentina","PlayerTeam":"Inter Miami CF","PlayerImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/White_Oak.jpg","PlayerAge":"36 years","PlayerPosition":"Winger","PlayerShirtNumber":"10","PlayerSite":"https://www.espn.com/soccer/player/_/id/45843/lionel-messi", "PlayerGoals": "3", "PlayerAssists" : "1"},
